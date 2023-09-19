@@ -5,5 +5,6 @@ class Main{
         System.out.println("Version 3");
         System.out.println("Hey");
         System.out.println("Hello World!");
+        System.out.println("Git checkout");
     }
 }
