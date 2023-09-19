@@ -6,5 +6,6 @@ class Main{
         System.out.println("Hey");
         System.out.println("Hello World!");
         System.out.println("Git checkout");
+        System.out.println("Master checkout");
     }
 }
