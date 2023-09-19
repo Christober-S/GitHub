@@ -3,8 +3,6 @@ class Main{
         System.out.println("Hello World!");
         System.out.println("Version 2");
         System.out.println("Version 3");
-        System.out.println("Version 4");
-        System.out.println("Version 5");
-        System.out.println("Version 7 updating");
+        System.out.println("Hey");
     }
 }
