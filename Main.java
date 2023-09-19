@@ -7,5 +7,6 @@ class Main{
         System.out.println("Hello World!");
         System.out.println("Git checkout");
         sout(); branch();
+        sout(); branch2();
     }
 }
